@@ -11,6 +11,6 @@ passionate about building innovative web applications and amazing projects using
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I'm here to achieve greatness through code!
 -✂️Skills & Tools
- ✨HTML,CSS,JS,React,NodeJs
+ ✨Full Stack:-HTML,CSS,JS,React,NodeJs,Mongodb.
 
   
