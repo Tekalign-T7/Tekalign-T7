@@ -5,12 +5,11 @@ passionate about building innovative web applications and amazing projects using
 🌟 About Me
 -🔭 Currently working on exciting web development projects.
 -🌱 Studying Electrical and Computer Engineering at AAU 
-  and honing my skills in web technologies.
 -🤝 Eager to collaborate on building amazing projects
   with HTML5, CSS, JavaScript, React, and Node.js
 -📫 Reach me at: tekaligntekola@gmail.com.              
 -😄 Pronouns: He/Him
--⚡ Fun fact: I'm here to make a mark and achieve greatness through code!
+-⚡ Fun fact: I'm here to achieve greatness through code!
 -✂️Skills & Tools
  ✨HTML,CSS,JS,React,NodeJs
 
