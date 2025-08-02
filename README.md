@@ -1,7 +1,5 @@
 👋 Hi, I'm @Tekalign-T7!
-/Tekalign Tekola! Electrical and Computer Engineering student at Addis Ababa University (AAU),
-passionate about building innovative web applications and amazing projects using modern technologies.
-
+/Tekalign Tekola! Electrical and Computer Engineering student at Addis Ababa University (AAU).
 🌟 About Me
 -🔭 Currently working on exciting web development projects.
 -🌱 Studying Electrical and Computer Engineering at AAU 
