@@ -9,6 +9,6 @@
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I'm here to achieve greatness through code!
 -✂️Skills & Tools
- ✨Full Stack:-HTML,CSS,JS,React,NodeJs,Mongodb.
+✨Full Stack:-HTML,CSS,JS,React,NodeJs,Mongodb.
 
   
