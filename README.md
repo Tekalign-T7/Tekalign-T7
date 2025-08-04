@@ -2,7 +2,6 @@
 /Tekalign Tekola! Electrical and Computer Engineering student at Addis Ababa University (AAU).
 🌟 About Me
 -🔭 Currently working on exciting web development projects.
--🌱 Studying Electrical and Computer Engineering at AAU 
 -🤝 Eager to collaborate on building amazing projects.
 -📫 Reach me at: tekaligntekola@gmail.com.              
 -😄 Pronouns: He/Him
