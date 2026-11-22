@@ -30,9 +30,9 @@ AI
 
 Exploring RAG, vector search, LLM APIs, and AI-powered applications.
 What I'm Building
-- AgentLoop — Exploring AI visibility and product optimization for Shopify stores.
-- Autonomous Blog Generator — An AI-powered tool for generating and managing Shopify blog content.
-- Signals & Systems Simulator — An educational project for exploring signals, systems, and communication concepts interactively.
+- AgentLoop : Exploring AI visibility and product optimization for Shopify stores.
+- Autonomous Blog Generator : An AI-powered tool for generating and managing Shopify blog content.
+- Signals & Systems Simulator : An educational project for exploring signals, systems, and communication concepts interactively.
 Current Focus
 - Strengthening my TypeScript and full-stack engineering skills.
 - Building reliable applications with Next.js, PostgreSQL, and Drizzle ORM.
