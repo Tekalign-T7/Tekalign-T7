@@ -9,24 +9,6 @@ I'm a fourth-year Electrical and Computer Engineering student at Addis Ababa Uni
 - 🤖 Exploring AI engineering, RAG, and agentic systems.
 - ⚡ Interested in communication systems, signal processing, and robotics.
 - 🛠️ I learn by building, experimenting, and improving real projects.
-Tech Stack
-Languages
-
-
-
-
-Web Development
-
-
-
-
-
-Databases & Tools
-
-
-
-
-AI
 
 Exploring RAG, vector search, LLM APIs, and AI-powered applications.
 What I'm Building
