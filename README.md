@@ -5,6 +5,7 @@ Building practical software at the intersection of web development, AI, and engi
 
 </div>About
 I'm a fourth-year Electrical and Computer Engineering student at Addis Ababa University, interested in building useful products and exploring how software and AI can solve real-world problems.
+
 - 💻 Focused on full-stack development and building end-to-end applications.
 - 🤖 Exploring AI engineering, RAG, and agentic systems.
 - ⚡ Interested in communication systems, signal processing, and robotics.
